@@ -121,16 +121,13 @@
   <p align="center">
 	<a href="https://github.com/aiswarya-l/Python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiswarya-l&repo=Python&theme=tokyonight" alt="Python repo" />
-    	</a>
-	  
+    	</a>  
 	<a href="(https://github.com/aiswarya-l/Machine-Learning">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiswarya-l&repo=Machine-Learning&theme=tokyonight" alt="ML repo" />
     	</a>
-     
 	  <a href="https://github.com/aiswarya-l/Django">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiswarya-l&repo=Django&theme=tokyonight" alt="Python repo" />
     	</a>
-     
   </p>
 </div>
 </details>
