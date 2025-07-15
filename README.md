@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :student: I’m currently learning `Python Development`.
+- :working: I’m currently working as a `Python Developer`.
 - :computer: I am a competitive programmer at `Codewars`.
 - :nerd_face: Always interested in `learning new things`.
 - :boom: You can visit [MY WEBSITE]().
